@@ -33,7 +33,7 @@
 
 ![image-20250724175005628](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724175005628.png)
 
-![image-20250724175316658](/Users/lostsheep/Library/Application Support/typora-user-images/image-20250724175316658.png)
+![image-20250724175316658](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724175316658.png)
 
 ##### 预览窗口使用 `tab`
 
