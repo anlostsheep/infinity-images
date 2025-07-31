@@ -39,7 +39,7 @@
 
 在跳转到定义的预览窗口也可以使用 `tab` 补全
 
-![image-20250724191033637](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724175316658.png)
+![image-20250724191033637](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724191033637.png)
 
 #### Cmd + K
 
