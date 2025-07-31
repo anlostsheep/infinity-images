@@ -71,11 +71,11 @@
 
 - 查询命令
 
-![image-20250724180447843](/Users/lostsheep/Library/Application Support/typora-user-images/image-20250724180447843.png)
+![image-20250724180447843](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724180447843.png)
 
 - git 提交信息生成
 
-![image-20250724183312287](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724180447843.png)
+![image-20250724183312287](https://cdn.jsdelivr.net/gh/anlostsheep/infinity-images@master/uPic/2025/07/image-20250724183312287.png)
 
 #### Cmd + L（Cmd + I）
 
